@@ -8,7 +8,10 @@ pip2 install requests
 git clone https://github.com/mronion420/tsbomber.v.2
 cd tsbomber.v.2
 python ts.py
+[For hoichoi Api limit only 10]
+python bioscope.py
+[For Bioscope api limit 100]
 
-Thanks to botol baba
-©Botol Mehedi
+Besi bombing api slow or dead kore dey so limit rekhe korben 
+
 
